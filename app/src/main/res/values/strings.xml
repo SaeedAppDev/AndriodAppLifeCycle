@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppLifeCycle</string>
+    <string name="activity_lifecycle_in_android">Activity Lifecycle 🔥!</string>
+</resources>
